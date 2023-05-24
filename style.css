@@ -1,0 +1,45 @@
+body{
+    background-color:black;
+}
+.posterContainer{
+    background-color: gold;
+    border:dotted red;
+    border-width:8px;
+    margin:3em;
+    height:750px;
+}
+.title{
+    border:solid black;
+    text-align:center;
+    text-decoration: underline;
+    font-size:52px;;
+}
+.info{
+    font-size:28px;
+    text-align:center;
+}
+.robot{
+    border:solid black;
+    border-radius:50%;
+    margin-left:18%;
+}
+.description{
+    border:solid black;
+    margin:1em;
+    background-size:cover;
+    /* background-image:url(""); uses an image as background instad of chosing a color */
+}
+.dsc{
+    margin:12px;
+    font-size:22px;
+}
+.contactInfo{
+    font-size:28px;
+    text-align:center;
+    color:red;
+    margin:1em;
+}
+.payola{
+    border:dotted green;
+    font-size:40px;
+}
